@@ -1,6 +1,6 @@
 # testedryve
 
--Clonar o repositorio.<br>
--Acessar o repositorio.<br>
--no terminar, digitar "yarn" para instalar as dependencias e o gerenciador de pacotes.<br>
--e pra iniciar "yarn dev".<br>
+- Clonar o repositorio.<br>
+- Atraves do terminal, acessar o repositório clonado.<br>
+- Ainda no terminal, digitar "yarn" para instalar as dependencias e o gerenciador de pacotes.<br>
+- para iniciar "yarn dev".<br>
